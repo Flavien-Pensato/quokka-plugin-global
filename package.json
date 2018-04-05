@@ -1,0 +1,9 @@
+{
+  "name": "quokka-plugin-global",
+  "version": "1.0.0",
+  "author":"Flavien Pensato <flavien.pensato@gmail.com>",
+  "description": "Quokka plugin to set global",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
